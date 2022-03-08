@@ -72,7 +72,7 @@ El capacitor se ocupa de estabilizar la corriente, entregando corriente cuando e
 
 6.VIDEO
 
-https://github.com/djsaritama/Construcion_y_Simulaci-n_de_una_fuente_de_alimentacion_basica_con_transformador
+https://youtu.be/uVjfe9n9kZg
 
 
 
