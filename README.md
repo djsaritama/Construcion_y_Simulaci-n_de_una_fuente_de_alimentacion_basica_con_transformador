@@ -26,6 +26,13 @@ Se utiliza para modular la señal en fuentes de alimentación. También como osc
 d.	Convertidor AC DC
 Un convertidor AC DC es el elemento que convierte la corriente alterna en forma sinusoidal en una corriente continua donde la electricidad va siempre en el mismo sentido y con el mismo voltaje. Para ello se suelen usar puentes de diodos y unos filtros para que se genere una corriente eléctrica lo más continua posible.
 
+![image](https://user-images.githubusercontent.com/101129326/157278376-a59cb4e7-fb15-4377-bda8-62e0f317df3a.png)
+
+
+4.PROCEDIMIENTO
+Se procede a realizar una simulacion del circuito.
+
+![image](https://user-images.githubusercontent.com/101129326/157278567-b9e5fd6e-b5e1-4fdd-8767-eccd4107621b.png)
 
 4. CONCLUSIONES
 Es posible la conversión de corriente alterna a corriente continua.
