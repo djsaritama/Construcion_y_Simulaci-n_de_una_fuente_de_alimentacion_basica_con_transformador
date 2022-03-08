@@ -62,13 +62,20 @@ Medir el voltaje una vez hecho las conexiones entre el puente rectificador y el 
 
 
 
-
-4. CONCLUSIONES
+5. CONCLUSIONES
 Es posible la conversión de corriente alterna a corriente continua.
+
 Es esencial el uso del rectificador de onda completa para la conversión a corriente continua
+
 El capacitor se ocupa de estabilizar la corriente, entregando corriente cuando esta trate de variar
 
-5. BIBLIOGRAFIAA
+
+6.VIDEO
+
+
+
+
+7. BIBLIOGRAFIAA
 
 [1] 	M. Sadiku, Fundamentos de circuitos electricos, Mc Graw Hill. 
 [2] 	Rashid, Electronica de Potencia, Pearson. 
