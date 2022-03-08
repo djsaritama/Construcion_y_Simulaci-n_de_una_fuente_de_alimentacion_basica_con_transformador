@@ -33,11 +33,12 @@ Un convertidor AC DC es el elemento que convierte la corriente alterna en forma 
 
 
 4.PROCEDIMIENTO
-Se procede a realizar una simulacion del circuito.
+
+Primero see procede a realizar una simulacion del circuito.
 
 ![image](https://user-images.githubusercontent.com/101129326/157278567-b9e5fd6e-b5e1-4fdd-8767-eccd4107621b.png)
 
-Se instala el tranformador a la red electrica y se hacen las conexiones.
+Se procede a construir el circuito, primero instalando el tranformador a la red electrica y se hacen las conexiones.
 
 
 ![image](https://user-images.githubusercontent.com/101129326/157279399-9f80dace-6f71-4cf1-8466-de07b9053198.png)
