@@ -27,6 +27,9 @@ d.	Convertidor AC DC
 Un convertidor AC DC es el elemento que convierte la corriente alterna en forma sinusoidal en una corriente continua donde la electricidad va siempre en el mismo sentido y con el mismo voltaje. Para ello se suelen usar puentes de diodos y unos filtros para que se genere una corriente eléctrica lo más continua posible.
 
 
+![image](https://user-images.githubusercontent.com/101129326/157280875-2cab8835-cbae-4fcb-b07f-699ad838d52a.png)
+
+
 
 
 4.PROCEDIMIENTO
