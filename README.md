@@ -47,6 +47,14 @@ Se sueldan los diodios rectificadores para la contruccion del puente rectificado
 
 
 
+Medir el voltaje una vez hecho las conexiones entre el puente rectificador y el transformador.
+
+
+![image](https://user-images.githubusercontent.com/101129326/157280463-075fd3d7-1071-439e-bef9-5de1b1d105fc.png)
+
+
+
+
 
 
 
